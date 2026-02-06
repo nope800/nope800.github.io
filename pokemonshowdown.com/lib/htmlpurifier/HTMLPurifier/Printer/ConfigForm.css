@@ -1,0 +1,10 @@
+
+.st-config {}
+
+.st-config tbody th {text-align:right; padding-right:0.5em;}
+.st-config thead, .st-config .namespace {background:#3C578C; color:#FFF;}
+.st-config .namespace th {text-align:center;}
+.st-config .verbose {display:none;}
+.st-config .controls {text-align:center;}
+
+/* vim: et sw=4 sts=4 */
